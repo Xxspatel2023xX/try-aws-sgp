@@ -1,5 +1,5 @@
 This is a try out project for AWS.
-Hello World!
+Hello World! And Friends!
 ## Available Scripts
 
 In the project directory, you can run:
